@@ -1,16 +1,12 @@
-# 🚀 Personal Portfolio Website
-
-![Portfolio Banner](images/banner.png)
-
-A modern, animated personal portfolio website built using HTML, CSS, and JavaScript.
+# Personal Portfolio Website
 
 This website showcases my skills, projects, achievements, and journey as a developer.
 
 ---
 
-# ✨ Features
+# Features
 
-## 🎨 Design
+## Design
 
 - Modern glassmorphism UI
 - Animated gradient background
@@ -22,7 +18,7 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
-## 🌙 User Experience
+## User Experience
 
 - Dark / Light mode toggle
 - Saved theme preference
@@ -34,7 +30,7 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
-## ⚡ Interactive Features
+## Interactive Features
 
 - Typing animation
 - Animated particle background
@@ -45,40 +41,13 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
-## 💻 Portfolio Sections
+## Portfolio Sections
 
 The website includes:
 
-- 👋 Home / Hero section
-- 🙋 About Me
-- 📈 Skills
-- 🖼️ Projects
-- 📊 GitHub Statistics
-- 📞 Contact Section
-- 🔗 Social Links
-
----
-
-# 🛠️ Technologies Used
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Libraries
-
-- Typed.js
-- AOS Animation Library
-- tsParticles
-- Font Awesome
-
-## Deployment
-
-- GitHub Pages
-- Vercel (optional)
-
----
-
-# 📂 Project Structure
+- Home / Hero section
+- About Me
+- Skills
+- Projects
+- Contact Me
+- GitHub Link
