@@ -1,4 +1,4 @@
-# 🚀 Personal Portfolio Website
+# Personal Portfolio Website
 
 ![Portfolio Banner](images/banner.png)
 
@@ -8,9 +8,9 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
-# ✨ Features
+# Features
 
-## 🎨 Design
+## Design
 
 - Modern glassmorphism UI
 - Animated gradient background
@@ -22,7 +22,7 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
-## 🌙 User Experience
+##  User Experience
 
 - Dark / Light mode toggle
 - Saved theme preference
@@ -34,7 +34,7 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
-## ⚡ Interactive Features
+##  Interactive Features
 
 - Typing animation
 - Animated particle background
@@ -45,21 +45,20 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
-## 💻 Portfolio Sections
+##  Portfolio Sections
 
 The website includes:
 
-- 👋 Home / Hero section
-- 🙋 About Me
-- 📈 Skills
-- 🖼️ Projects
-- 📊 GitHub Statistics
-- 📞 Contact Section
-- 🔗 Social Links
+-  Home / Hero section
+-  About Me
+-  Skills
+-  Projects
+-  GitHub Statistics
+-  Social Links
 
 ---
 
-# 🛠️ Technologies Used
+# Types of coding Used
 
 ## Frontend
 
@@ -80,5 +79,3 @@ The website includes:
 - Vercel (optional)
 
 ---
-
-# 📂 Project Structure

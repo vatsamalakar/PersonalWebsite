@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Projects | Vatsa Malakar</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+<div id="particles"></div>
+<div class="progress-bar"></div>
+<button id="topBtn" type="button" aria-label="Back to top">
+<i class="fas fa-arrow-up"></i>
+</button>
+
+<nav>
+<h2 class="logo"><a href="index.html"><span>Vatsa</span></a></h2>
+<div class="tab-nav" role="navigation" aria-label="Portfolio pages">
+<a class="tab-btn" href="index.html">Home</a>
+<a class="tab-btn" href="about.html">About</a>
+<a class="tab-btn" href="skills.html">Skills</a>
+<a class="tab-btn active" href="projects.html">Projects</a>
+</div>
+<div class="right">
+<div id="clock"></div>
+<button id="theme" type="button" aria-label="Toggle color theme">
+<i class="fas fa-moon"></i>
+</button>
+</div>
+</nav>
+
+<section class="page-section">
+<h2>Projects</h2>
+<div class="project-grid">
+<div class="project">
+<img src="images/project1.png" alt="BudgetBuddy project preview" onerror="this.style.display='none'">
+<h3>BudgetBuddy</h3>
+<p>Budget tracker built with Flask.</p>
+<a href="https://github.com/vatsamalakar/BudgetBuddy" target="_blank" rel="noopener noreferrer">GitHub</a>
+</div>
+<div class="project">
+<img src="images/project2.png" alt="NASA Explorer project preview" onerror="this.style.display='none'">
+<h3>NASA Explorer</h3>
+<p>Uses NASA APIs.</p>
+<a href="https://github.com/vatsamalakar/CosmoPulse" target="_blank" rel="noopener noreferrer">GitHub</a>
+</div>
+<div class="project">
+<img src="images/project3.png" alt="Health Insurance Decoder project preview" onerror="this.style.display='none'">
+<h3>Health Insurance Decoder</h3>
+<p>Explains health insurance plans.</p>
+<a href="https://github.com/vatsamalakar/HealthDecoder" target="_blank" rel="noopener noreferrer">GitHub</a>
+</div>
+<div class="project">
+<img src="images/project4.png" alt="Snake Game project preview" onerror="this.style.display='none'">
+<h3>Snake Game</h3>
+<p>A classic Snake game built with JavaScript.</p>
+<a href="https://github.com/vatsamalakar/SnakeGame" target="_blank" rel="noopener noreferrer">GitHub</a>
+</div>
+</div>
+</section>
+
+<footer>
+<p>Visitors: <span id="visitorCount">0</span></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
