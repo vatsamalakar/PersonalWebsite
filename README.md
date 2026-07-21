@@ -1,8 +1,11 @@
 # Personal Portfolio Website
+<<<<<<< HEAD
 
 ![Portfolio Banner](images/banner.png)
 
 A modern, animated personal portfolio website built using HTML, CSS, and JavaScript.
+=======
+>>>>>>> e9cb56e13e3cdff41a59ad72807e9648e2a0cefe
 
 This website showcases my skills, projects, achievements, and journey as a developer.
 
@@ -22,7 +25,11 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
+<<<<<<< HEAD
 ##  User Experience
+=======
+## User Experience
+>>>>>>> e9cb56e13e3cdff41a59ad72807e9648e2a0cefe
 
 - Dark / Light mode toggle
 - Saved theme preference
@@ -34,7 +41,11 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
+<<<<<<< HEAD
 ##  Interactive Features
+=======
+## Interactive Features
+>>>>>>> e9cb56e13e3cdff41a59ad72807e9648e2a0cefe
 
 - Typing animation
 - Animated particle background
@@ -45,6 +56,7 @@ This website showcases my skills, projects, achievements, and journey as a devel
 
 ---
 
+<<<<<<< HEAD
 ##  Portfolio Sections
 
 The website includes:
@@ -79,3 +91,15 @@ The website includes:
 - Vercel (optional)
 
 ---
+=======
+## Portfolio Sections
+
+The website includes:
+
+- Home / Hero section
+- About Me
+- Skills
+- Projects
+- Contact Me
+- GitHub Link
+>>>>>>> e9cb56e13e3cdff41a59ad72807e9648e2a0cefe
